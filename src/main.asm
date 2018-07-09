@@ -1,5 +1,7 @@
 ; Ported from https://pastebin.com/t8Qu6Pc2
 
+MainPayload:
+
 OBJECT EQU $74
 
 	jr InitGame
